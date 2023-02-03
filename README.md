@@ -37,7 +37,6 @@
 ### Web Development
 - A small website using oMDb API to fetch movie details - https://github.com/iiitl/moviedb
 - An API with data on all participants of IIIT-L Equinox's FOSS Weekend - https://github.com/iiitl/Participants-API
-- A website which will track your location and store it - https://github.com/iiitl/IP-lookup
 - A javascript simulation website which simulates the gravitational field of planets - https://github.com/iiitl/Planets
 - A website which produces cool visual artworks - https://github.com/iiitl/Times-Table
 - A travel website which provides information about various travel destinations - https://github.com/iiitl/Wanderlusters
