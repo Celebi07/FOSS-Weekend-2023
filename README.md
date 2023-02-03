@@ -61,10 +61,11 @@
 
 
 ## Good practices (must read before starting)
+- **Write clear and concise pull request descriptions**: Explain the changes you made, and how they impact the project. You may add a SS, gif or a small video of your changes made if possible.
+- **Mention issue numbers**: When creating a PR, [reference the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) (for eg: `fixes #123`) in your PR description which lets github know to automatically close the issue when your PR is merged.
 - **Use descriptive and concise commit messages**: Summarize the changes made in each commit, including the issue number if applicable.
-- **Mention issue numbers**: When creating a PR, [reference the issue number](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) in your PR description which lets github know to automatically close the issue when your PR is merged.
 - **Create separate branches for new features**: create a new branch from main/master for each new features or bug fixes you are working on.
 - **Regularly merge from the main branch**: To keep your branches up-to-date, regularly merge changes from the main branch into your feature branches.
-- **Write clear and concise pull request descriptions**: Explain the changes you made, why you made them, and how they impact the project. You may add a SS, gif or a small video of your changes made if possible.
+
 
 ## [Leaderboard](https://foss.pranavg.me/)
