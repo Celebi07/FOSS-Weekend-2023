@@ -59,6 +59,7 @@
 ### Bash Scripting
 - A set of scripts which make your life easier in linux - https://github.com/iiitl/Foss-BashScripting/
 
+<hr>
 
 ## Good practices (must read before starting)
 - **Write clear and concise pull request descriptions**: Explain the changes you made, and how they impact the project. You may add a SS, gif or a small video of your changes made if possible.
