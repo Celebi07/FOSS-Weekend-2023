@@ -17,13 +17,13 @@
 - Try to complete the `must do` tasks before you move further, because they will give you a very good foundational knowledge about git by visiting the repositories, and looking through the issues. 
 - The issues are tagged *easy*, to *hard* depending on difficulty. 
 - You should try to start by trying to solve the easy issues before progressing to the harder ones.
-- View the leaderboard at https://foss.iiitl.ac.in/ (Leaderboard will be active once the event starts)
+- View the leaderboard at [https://foss.pranavg.me](https://foss.pranavg.me/) (Leaderboard will be active once the event starts)
 
 
 ### Special Instructions for `to-be-assigned` labelled issues:
 - If the issue has a `to-be-assigned` label, ask for the issue to be assigned to you, and start working on it only after you recieve confirmation that you have been assigned. These issues will be assigned only to 3 participants on a first come first serve basis, and each of them will have to submit a PR fixing it within 3 hours from the time of assignment. 
 
-- Out of these 3 PRs, all satisfactory ones will be scored, and 1 or 2 may get a bonus for exceptional work. If all the PRs have roughly the same quality of content, the earliest submission may get a bonus. Bonus scores are at the discretion of the repository owners. 
+- Out of these 3 PRs, all satisfactory ones will be scored, and 1 or 2 may get a bonus for exceptional work. If all the PRs have roughly the same quality of content, the earliest submission may get a bonus. Bonus scores are at the discretion of the event organizers. 
 
 - If you realise after getting yourself assigned an issue, that you cannot work on it due to any reason, be sure to unassign yourself, to give a chance to others who may want to work on the issue. Also leave a comment informing everyone that this issue is again open to assignment.
 
@@ -51,8 +51,8 @@
 - An application to tell us a bit about yourself - https://github.com/iiitl/introduce-yourself-app
 - An application which tries to predict your salary after your placements - https://github.com/iiitl/its-money
 #### - Kotlin:
-- An application which 
-- An application which calculates your age - 
+- A quiz application which will test your knowledge - https://github.com/iiitl/Binary
+- An application which calculates your age which uses multiple views in android - https://github.com/iiitl/Age-Calc
 
 ### Machine Learning 
 - A repository which will help you get started in Artificial Intelligence and Machine Learning - https://github.com/iiitl/ML_tutorial
@@ -60,4 +60,4 @@
 ### Bash Scripting
 - A set of scripts which make your life easier in linux - https://github.com/iiitl/Foss-BashScripting/
 
-## [Leaderboard](https:///foss.iiitl.ac.in)
+## [Leaderboard](https://foss.pranavg.me/)
