@@ -43,6 +43,7 @@
 - A clone of a portolio website of a famous visual designer - https://github.com/iiitl/Sean-Halpin-Portfolio
 - A URL shortener website which shortens the links for you - https://github.com/iiitl/URL-Shortener
 - A simple password generator - https://github.com/iiitl/Password-Generator
+- A snake game in your web browser! - https://github.com/iiitl/The_Snake_game
 
 
 ### Android Development
